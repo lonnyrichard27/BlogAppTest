@@ -1,0 +1,1 @@
+This is a vite app built with a json mock server, please run "yarn dev" to run it and then 'json-server --watch db.json' to run the json server. Thank you!
